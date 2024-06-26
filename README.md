@@ -1,4 +1,4 @@
-![image](https://github.com/ManaliRahangdale/primengdatatable-curd-UPSWING/assets/81025664/c9b237cb-ff5b-4984-a603-4c5c230e2a47)# primengdatatable-curd-UPSWING
+
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ManaliRahangdale/primengdatatable-curd-UPSWING)
 This is curd application using primeng and ngx-chart.
